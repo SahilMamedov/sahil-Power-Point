@@ -1,0 +1,21 @@
+Insertion Sort -   https://www.youtube.com/watch?v=0TuLALssvPU
+
+insertion bubble sort  - https://www.youtube.com/watch?v=X3WFLO1MIFc
+
+Selection sort - https://www.youtube.com/watch?v=h3lcUana3ng
+
+Merge sort - https://www.youtube.com/watch?v=wbQWRvOad2s
+
+Quick sort -  https://www.youtube.com/watch?v=yYCz1beRAbM
+
+Quick sort -  https://www.youtube.com/watch?v=aubOM9dOy6c
+
+Couinting sort https://bilgisayarkavramlari.com/2008/08/09/sayarak-siralama-counting-sort/
+
+Selection sort  -  https://bilgisayarkavramlari.com/2008/08/09/secerek-siralama-selection-sort/
+
+Insertion sort  -  https://bilgisayarkavramlari.com/2008/12/12/sokma-siralamasi-ekleme-siralamasi-insertion-sorting/
+
+Bubble sort -    https://bilgisayarkavramlari.com/2008/08/09/kabarcik-siralamasi-baloncuk-siralamasi-bubble-sort/
+
+Bubble sort  -  https://www.youtube.com/watch?v=m3IxvuN0NV8
